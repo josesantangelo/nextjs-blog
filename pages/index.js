@@ -20,7 +20,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Este es un blog de prueba creado por Jose Santangelo para el tutorial
+          Este es un blog de prueba creado por Jose Santangelo y modificado en el branch refactor para el tutorial
           de NextJs
         </p>
         <p>
